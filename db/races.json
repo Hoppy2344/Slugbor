@@ -1,0 +1,7 @@
+{
+  "raças": [
+    {"nome": "Humano", "descricao": "Descrição do Humano"},
+    {"nome": "Cavernícola", "descricao": "Descrição do Cavernícola"},
+    {"nome": "Technotroll", "descricao": "Descrição do Technotroll"}
+  ]
+}

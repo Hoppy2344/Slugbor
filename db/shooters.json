@@ -1,0 +1,7 @@
+{
+  "inicial": [
+    { "nome": "Lançador Azul", "Descrição": "Dispare suas lesmas", "icon": "https://media.discordapp.net/attachments/976673860927754324/1211476072126742548/latest.png?ex=65ee5603&is=65dbe103&hm=6b430fd05fa434245cfdece8d9251024cbe380ea5b9186bb7469bed96964faad&" },
+    { "nome": "Lançador Ciano", "descrição": "Dispare suas lesmas", "icon": "https://media.discordapp.net/attachments/976673860927754324/1211476278721642557/latest.png?ex=65ee5634&is=65dbe134&hm=e87f4dd4e577d7cadd7ae119348e17563d7d6fc6776b47de8edb087459fc534a&"},
+    { "nome": "Lançador Amarelo", "descrição": "Dispare suas lesmas", "icon": "https://media.discordapp.net/attachments/976673860927754324/1211476557479018506/latest.png?ex=65ee5677&is=65dbe177&hm=afc75322b305305f2ea50b37c2007c4edac89f0cec770883670efd03cd44e44d&" }
+  ]
+}

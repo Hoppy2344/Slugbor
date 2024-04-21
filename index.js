@@ -34,7 +34,7 @@ const client = new Client({
 
 module.exports = client;
 
-client.userDB = require("./schemas/User.js");
+client.userDB = require("./schemas/PerfilSchema.js");
 client.commands = new Collection();
 client.slash = new Collection();
 client.config = require('./config.json');
@@ -43,9 +43,11 @@ handler.loadEvents(client);
 handler.loadCommands(client);
 handler.loadSlashCommands(client);
 
+/*
 // Webhook command logs
 const webhookUrl = ''; // WebHook URL
 const webhookClient = new WebhookClient({ url: webhookUrl });
+
 
 client.on('interactionCreate', async (interaction) => {
   if (!interaction.isCommand()) return;
@@ -65,7 +67,7 @@ client.on('interactionCreate', async (interaction) => {
 
   webhookClient.send({ embeds: [logMessage] });
 });
-// -------------------------------------
+*/
 
 process.on("uncaughtException", (err) => {
 	console.log("Error: Uncaught Exception:\n" + err);

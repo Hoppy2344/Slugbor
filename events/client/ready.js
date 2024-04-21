@@ -9,7 +9,7 @@ module.exports = {
     client.user.setActivity({
       name: "customstatus",
       type: ActivityType.Custom,
-      state: "Made with ❤️ by Vexy"
+      state: "Ey"
     });
 
   }

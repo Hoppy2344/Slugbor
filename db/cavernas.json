@@ -1,0 +1,26 @@
+{
+  "1": {
+    "npcs": ["Atirador Pobre", "Atirador Fraco", "Atirador Desajeitado", "Atirador Aprendiz"],
+    "lesmasDisponiveis": ["ArmShelt", "Diggrix", "Dirt Urchin"]
+  },
+  "2": {
+    "npcs": ["Cachorro Metralhadora", "Papagaio Fuzileiro", "Gangue de Lesmas", "Criança Preguiçosa"],
+    "lesmasDisponiveis": ["Tormato", "ArmShelt", "Diggrix", "Dirt Urchin", "Hop Rock"]
+  },
+  "3": {
+    "npcs": ["Bandido", "Caçador", "Cavalheiro"],
+    "lesmasDisponiveis": ["Tormato", "ArmShelt", "Diggrix", "Dirt Urchin", "Hop Rock", "Rammstone"]
+  },
+  "4": {
+    "npcs": ["Cavaleiro de Elite", "Bandido Mecha", "Mecha Lobo", "Mecha Topeira", "Bandido Musculoso", "Bandido Incendiário"],
+    "lesmasDisponiveis": ["Tormato", "ArmShelt", "Diggrix", "Dirt Urchin", "Hop Rock", "Rammstone", "Polero"]
+  },
+  "5": {
+    "npcs": ["Cavaleiro de Elite", "Bandido Mecha", "Mecha Lobo", "Mecha Topeira", "Bandido Musculoso", "Bandido Incendiário", "Bandido Gelado", "Mecha Pinguim", "Homem Mascarado", "Bandido Arqueiro", "Bandido Misterioso", "Bandido de Elite"],
+    "lesmasDisponiveis": ["Tormato", "ArmShelt", "Diggrix", "Dirt Urchin", "Hop Rock", "Rammstone", "Polero", "Jellyish", "Frostcrawler"]
+  },
+  "6": {
+    "npcs": ["Cavaleiro de Elite", "Bandido Mecha", "Mecha Lobo", "Mecha Topeira", "Bandido Musculoso", "Bandido Incendiário", "Bandido Gelado", "Mecha Pinguim", "Homem Mascarado", "Bandido Arqueiro", "Bandido Misterioso", "Bandido de Elite", "Criança assustada", "Líder de divisão", "Bandido Líder"],
+    "lesmasDisponiveis": ["Tormato", "ArmShelt", "Diggrix", "Dirt Urchin", "Hop Rock", "Rammstone", "Polero", "Jellyish", "Frostcrawler", "Tazerling"]
+  }
+}
